@@ -25,6 +25,12 @@ namespace DevCard_MVC.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Contact(Contact form)
+        {
+            Console.WriteLine(form.ToString());
+            return Json(Ok());
+        }
       
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

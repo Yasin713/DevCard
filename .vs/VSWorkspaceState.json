@@ -1,5 +1,14 @@
 {
-  "ExpandedNodes": [],
-  "SelectedNode": "\\C:\\Users\\Mehdi\\Source\\Repos\\DevCard",
+  "ExpandedNodes": [
+    "",
+    "\\DevCard_MVC",
+    "\\DevCard_MVC\\Controllers",
+    "\\DevCard_MVC\\Models",
+    "\\DevCard_MVC\\ViewComponents",
+    "\\DevCard_MVC\\Views",
+    "\\DevCard_MVC\\Views\\Home",
+    "\\DevCard_MVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\DevCard_MVC\\DevCard_MVC.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mehdi\\.nuget\\packages\\": {}
+    "C:\\Users\\Reza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mehdi\\source\\repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Reza\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
       "projectName": "DevCard_MVC",
-      "projectPath": "C:\\Users\\Mehdi\\source\\repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
-      "packagesPath": "C:\\Users\\Mehdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mehdi\\source\\repos\\DevCard\\DevCard_MVC\\obj\\",
+      "projectPath": "C:\\Users\\Reza\\Source\\Repos\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+      "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reza\\Source\\Repos\\DevCard\\DevCard_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
